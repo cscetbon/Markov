@@ -1,0 +1,16 @@
+.idea/
+.tmp/
+.DS_Store
+._*
+*.py[oc]
+*.ini
+env
+pylint.txt
+.coverage
+*.egg-info
+build
+coverage.xml
+test_report.xml
+supervisord.conf
+dist/*
+.cache/
